@@ -9,10 +9,17 @@
 
 </details>
 
+![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/series_plot.png)
+
 ![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/avg_order_series.png)
 ![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/treemap%20orders.png)
 ![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/max_product.png)
 ![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/by_warehouse.png)
+
+
+![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/diagnostics.png)
+![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/outsample_forecast_SARIMAX.png)
+![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/outsample_forecast_LSTM.png)
 
 
 <h3>Metrics and Dimensions</h3>
