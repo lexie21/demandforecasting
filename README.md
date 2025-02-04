@@ -9,6 +9,9 @@
 
 </details>
 
+![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/avg_order_series.png)
+
+
 <h3>Metrics and Dimensions</h3>
 
 
