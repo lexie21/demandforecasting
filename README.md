@@ -12,7 +12,7 @@
 ![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/avg_order_series.png)
 ![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/treemap%20orders.png)
 ![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/max_product.png)
-![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/max_product.png)
+![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/by_warehouse.png)
 
 
 <h3>Metrics and Dimensions</h3>
