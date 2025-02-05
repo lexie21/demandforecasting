@@ -51,14 +51,14 @@
 
 <h3>Summary of Insights</h3>
 
-**<h3>Order:</h3>**
+**<h4>Order:</h4>**
 ![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/avg_order_series.png)
 
-**Product Category & Code:**
+**<h4>Product Category & Code:</h4>**
 ![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/treemap%20orders.png)
 ![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/max_product.png)
 
-**Warehouse:**
+**<h4>Warehouse:</h4>**
 ![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/by_warehouse.png)
 
 <h3>Recommendations & Next Steps</h3>
