@@ -43,12 +43,6 @@
 ## Exploratory Data Analysis
 ![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/daily_orders.png)
 
-![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/avg_order_series.png)
-![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/treemap%20orders.png)
-![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/max_product.png)
-![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/by_warehouse.png)
-
-
 <h3>Metrics and Dimensions</h3>
 
 - **Order**: Average quantity per order from all products
@@ -56,6 +50,16 @@
 - **Central warehouse**: Warehouse A, C, J, S
 
 <h3>Summary of Insights</h3>
+
+**Order:**
+![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/avg_order_series.png)
+
+**Product Category & Code:**
+![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/treemap%20orders.png)
+![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/max_product.png)
+
+**Warehouse:**
+![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/by_warehouse.png)
 
 <h3>Recommendations & Next Steps</h3>
 
