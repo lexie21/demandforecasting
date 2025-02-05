@@ -51,7 +51,7 @@
 
 <h3>Summary of Insights</h3>
 
-**Order:**
+**<h3>Order:</h3>**
 ![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/avg_order_series.png)
 
 **Product Category & Code:**
