@@ -69,6 +69,9 @@
 **<h4>Warehouse:</h4>**
 ![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/images/by_warehouse.png)
 ![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/images/stacked_wh.png)
+
+- The orders for warehouse J and A were always consistently lower relatively in comparison to the remaining warehouses at 5K for the former and 1K for the latter. Meanwhile, while warehouses C and S had similar average order quantities from 2012 to 2015, warehouse S took a clear lead in 2016, reporting a significantly higher number of orders at over 200K. Interestingly, it experienced a gradual downward trend to meet warehouse C again during the final months of 2016 - examine if this unusual surge was due to marketing/promotion effect or reallocation of manufacturing locations for different products.
+
 <h3>Recommendations & Next Steps</h3>
 
 ## Modeling
