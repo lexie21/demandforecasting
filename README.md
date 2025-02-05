@@ -64,7 +64,8 @@
 
 - Category 019 remains the best-seller in terms of total sales and typically made up about 80% of orders, although this number has been decreasing mildly over the years. Within this category, a few products stood out with orders ranging from 80K to almost 200K. Specifically, product 1245 reported a total sales of 180K orders. 
 - The other best-selling categories were 006, which had the highest orders for product 1152, followed by 005 and 007, with all products in both categories having orders below 40K.
-  
+- With respect to monthly top-selling products, product 1432 and 1248 dominated both in terms of frequency and actual order quantity. Among these, product 1432 always received huge one-time orders with quantities exceeding 2M on average. A significant observation is that product 1245 started to emerge as a strong top-selling candidate on a monthly basis starting in 2015, potentially due to shifting customer preferences or its recent introduction to the market.
+
 **<h4>Warehouse:</h4>**
 ![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/images/by_warehouse.png)
 ![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/images/stacked_wh.png)
