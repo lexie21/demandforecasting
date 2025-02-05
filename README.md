@@ -51,6 +51,9 @@
 
 <h3>Metrics and Dimensions</h3>
 
+- **Order**: Average quantity per order from all products
+- **Product category and code**: 2160 codes spread over more than 30 categories
+- **Central warehouse**: Warehouse A, C, J, S
 
 <h3>Summary of Insights</h3>
 
