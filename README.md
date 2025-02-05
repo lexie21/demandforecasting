@@ -83,8 +83,14 @@
 | SARIMAX       | 0.821 | 0.651  |
 | LSTM       | 0.651    | 0.547   | 
 
-
+**<h4>Log Differenced Series:</h4>**
 ![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/images/series_plot.png)
+
+**<h4>Diagnostics for SARIMAX:</h4>**
 ![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/images/diagnostics.png)
+
+**<h4>Forecasts from SARIMAX:</h4>**
 ![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/images/outsample_forecast_SARIMAX.png)
+
+**<h4>Forecasts from LSTM:</h4>**
 ![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/images/outsample_forecast_LSTM.png)
