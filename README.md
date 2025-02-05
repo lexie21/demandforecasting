@@ -17,12 +17,21 @@
 ## Introduction
 <details>
 <summary><b>
-- What this project is about?
+What this project is about?
 </b></summary>
 write the about here
 </details>
-- Why it was launched?
-- What I did?
+<details>
+<summary><b>
+Why it was launched?
+</b></summary>
+</details>
+<details>
+<summary><b>
+What I did?
+</b></summary>
+</details>
+
   
 ## Exploratory Data Analysis
 ![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/series_plot.png)
