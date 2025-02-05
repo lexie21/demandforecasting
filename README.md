@@ -16,7 +16,7 @@
 
 ## Introduction
 
-- <b>What this project is about?</b>
+<b>What this project is about?</b>
 <details>
 <summary>
 Project Scope
@@ -35,7 +35,7 @@ Next Steps
 Once we refine overall demand estimation, we will extend our model to generate product-specific forecasts across multiple warehouses. This will enable more precise inventory allocation, reducing both stockouts and excess inventory while improving supply chain efficiency.
 </details>
 
-- <b>What I did?</b>
+<b>What I did?</b>
 <details>
 <summary>
 EDA
