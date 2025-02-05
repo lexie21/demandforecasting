@@ -15,10 +15,12 @@
 - [Modeling](#modeling)
 
 ## Introduction
-<b>- What this project is about?</b>
+
+- <b>What this project is about?</b>
 <details>
 <summary><b>
 Project Scope
+  
 </b></summary>
   Accurate demand forecasting is crucial for optimizing operations in global manufacturing. This project focuses on developing a data-driven approach to predict demand, helping a multinational manufacturing company enhance its production planning and inventory management. Our initial objective is to improve the accuracy of quantity forecasts. By leveraging historical sales data, market trends, and statistical modeling techniques, we aim to minimize discrepancies between predicted and actual demand.
 
