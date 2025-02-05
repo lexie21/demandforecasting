@@ -56,7 +56,7 @@
 
 **<h4>Product Category & Code:</h4>**
 ![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/images/treemap%20orders.png)
-![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/images/stacked_area.png)
+![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/images/stacked_product.png)
 ![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/images/max_product.png)
 
 **<h4>Warehouse:</h4>**
