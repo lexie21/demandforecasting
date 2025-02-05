@@ -61,7 +61,7 @@
 
 **<h4>Warehouse:</h4>**
 ![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/images/by_warehouse.png)
-![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/images/images/stacked_wh.png)
+![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/images/stacked_wh.png)
 <h3>Recommendations & Next Steps</h3>
 
 ## Modeling
