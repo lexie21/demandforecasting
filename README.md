@@ -77,6 +77,13 @@
 <h3>Recommendations & Next Steps</h3>
 
 ## Modeling
+
+| Model | MSE | MAE | 
+|------------|----------|--------|
+| SARIMAX       | 0.821 | 0.651  |
+| LSTM       | 0.651    | 0.547   | 
+
+
 ![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/images/series_plot.png)
 ![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/images/diagnostics.png)
 ![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/images/outsample_forecast_SARIMAX.png)
