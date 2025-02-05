@@ -76,6 +76,10 @@
   
 <h3>Recommendations & Next Steps</h3>
 
+- Investigate the reasons behind the regular year-end order surges, determining whether this is primarily a seasonal effect or related to specific product issues, and explore strategies to replicate such increases during other time periods.
+- Orders from Categories 019 and 006 have a disproportionate impact on sales due to a limited number of specific best-selling products; therefore, identify complementary products that could attract the same customer base and ensure consistent stock availability to prevent shortages or disruptions.
+- Warehouse S’s surge in 2016 followed by a decline warrants investigation to determine whether it was driven by marketing campaigns or a reallocation of manufacturing locations, which could guide future strategies. Warehouse J, which accounts for 70% of total orders, should focus on enhancing fulfillment efficiency and leveraging demand forecasting to improve operational performance. Meanwhile, warehouses A and C, with their relatively lower order frequencies, should consider inventory redistribution and product diversification to balance performance across locations and support sustained growth.
+
 ## Modeling
 
 | Model | MSE | MAE | 
