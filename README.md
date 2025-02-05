@@ -54,6 +54,9 @@
 **<h4>Order:</h4>**
 ![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/images/avg_order_series.png)
 
+- Average daily orders tended to experience spikes of extremely large quantities at 100K to over 200K during the end of each year from 2013 to 2016, which likely shows that the types of products manufactured by the company are usually consumed during holiday seasons. These spikes became much more regular from 2016 - investigate whether this is due to the introduction of new products or other logistical changes.
+- Average order quantities per month exhibited a modestly increasing trend amidst frequent fluctutations. 
+
 **<h4>Product Category & Code:</h4>**
 ![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/images/treemap%20orders.png)
 ![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/images/stacked_product.png)
