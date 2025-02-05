@@ -41,7 +41,7 @@
   Compared model performance using key evaluation metrics (e.g., RMSE, MAE) to select the best forecasting approach.
   
 ## Exploratory Data Analysis
-![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/daily_orders.png)
+![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/images/daily_orders.png)
 
 <h3>Metrics and Dimensions</h3>
 
@@ -52,20 +52,20 @@
 <h3>Summary of Insights</h3>
 
 **<h4>Order:</h4>**
-![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/avg_order_series.png)
+![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/images/avg_order_series.png)
 
 **<h4>Product Category & Code:</h4>**
-![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/treemap%20orders.png)
-![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/stacked_area.png)
-![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/max_product.png)
+![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/images/treemap%20orders.png)
+![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/images/stacked_area.png)
+![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/images/max_product.png)
 
 **<h4>Warehouse:</h4>**
-![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/by_warehouse.png)
-![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/images/stacked_wh.png)
+![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/images/by_warehouse.png)
+![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/images/images/stacked_wh.png)
 <h3>Recommendations & Next Steps</h3>
 
 ## Modeling
-![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/series_plot.png)
-![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/diagnostics.png)
-![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/outsample_forecast_SARIMAX.png)
-![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/outsample_forecast_LSTM.png)
+![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/images/series_plot.png)
+![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/images/diagnostics.png)
+![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/images/outsample_forecast_SARIMAX.png)
+![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/images/outsample_forecast_LSTM.png)
