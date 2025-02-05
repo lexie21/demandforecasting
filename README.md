@@ -57,7 +57,7 @@ Forecasting
 
   
 ## Exploratory Data Analysis
-![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/series_plot.png)
+![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/daily_orders.png)
 
 ![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/avg_order_series.png)
 ![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/treemap%20orders.png)
@@ -73,7 +73,7 @@ Forecasting
 <h3>Recommendations & Next Steps</h3>
 
 ## Modeling
-
+![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/series_plot.png)
 ![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/diagnostics.png)
 ![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/outsample_forecast_SARIMAX.png)
 ![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/outsample_forecast_LSTM.png)
