@@ -15,7 +15,15 @@
 - [Modeling](#modeling)
 
 ## Introduction
-
+<details>
+<summary><b>
+- What this project is about?
+</b></summary>
+write the about here
+</details>
+- Why it was launched?
+- What I did?
+  
 ## Exploratory Data Analysis
 ![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/series_plot.png)
 
