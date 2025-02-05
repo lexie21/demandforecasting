@@ -55,13 +55,16 @@
 ![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/images/avg_order_series.png)
 
 - Average daily orders tended to experience spikes of extremely large quantities at 100K to over 200K during the end of each year from 2013 to 2016, which likely shows that the types of products manufactured by the company are usually consumed during holiday seasons. These spikes became much more regular from 2016 - investigate whether this is due to the introduction of new products or other logistical changes.
-- Average order quantities per month exhibited a modestly increasing trend amidst frequent fluctutations. 
+- Average order quantities per month exhibited a modestly increasing trend amidst frequent fluctutations. The last two years of 2015 and 2016 observed the highest records among the entire period. Seasonality-wise, orders consistently dropped in February as well as between September/October. 
 
 **<h4>Product Category & Code:</h4>**
 ![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/images/treemap%20orders.png)
 ![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/images/stacked_product.png)
 ![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/images/max_product.png)
 
+- Category 019 remains the best-seller in terms of total sales and typically made up about 80% of orders, although this number has been decreasing mildly over the years. Within this category, a few products stood out with orders ranging from 80K to almost 200K. Specifically, product 1245 reported a total sales of 180K orders. 
+- The other best-selling categories were 006, which had the highest orders for product 1152, followed by 005 and 007, with all products in both categories having orders below 40K.
+  
 **<h4>Warehouse:</h4>**
 ![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/images/by_warehouse.png)
 ![Alt Text](https://github.com/lexie21/demandforecasting/blob/main/images/stacked_wh.png)
